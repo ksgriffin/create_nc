@@ -1,0 +1,4862 @@
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78484.25..78484.25]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78484.5..78484.5]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78484.75..78484.75]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78485..78485]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78485.25..78485.25]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78485.5..78485.5]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78485.75..78485.75]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78486..78486]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78486.25..78486.25]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78486.5..78486.5]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78486.75..78486.75]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78487..78487]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78487.25..78487.25]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78487.5..78487.5]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78487.75..78487.75]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78488..78488]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+
+Variable: p (parameter)
+Type: integer
+Total Size: 12 bytes
+            3 values
+Number of Dimensions: 1
+Dimensions and sizes:	[3]
+Coordinates: 
+(0)	-2147483647
+
+Variable: s
+Type: float
+Total Size: 3119040 bytes
+            779760 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 3] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78488.25..78488.25]
+            pres_lev: [300..200]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 3
+  units :	K/Pa
+  long_name :	static stability
+  _FillValue :	9.96921e+36
+fatal:Number of dimensions in parameter (0) of (ind) is (4), (1) dimensions were expected 
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 3852 in file /home/ksgriffin2/scripts/ncl/lib/shea_util.ncl
+
+fatal:["Execute.c":8128]:Execute: Error occurred at or near line 83 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2013 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.1.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now p-type precip
+fatal:Variable (pcp_6h) is undefined
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 220 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now p-type precip
+fatal:Variable (pcp_6h) is undefined
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 220 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now p-type precip
+(0)	cycle
+(1)	u
+(2)	time
+(3)	pres_lev
+(4)	lat
+(5)	lon
+(6)	v
+(7)	t
+(8)	g
+(9)	rh
+(10)	w
+(11)	mslp
+(12)	t_sfc
+(13)	rh_sfc
+(14)	pwat
+(15)	u_sfc
+(16)	v_sfc
+(17)	gust_sfc
+(18)	tot_cloud
+(19)	olr
+(20)	pcp_6h
+(21)	cat_rain
+(22)	cat_frzrn
+(23)	cat_ice
+(24)	cat_snow
+(25)	wesd
+(26)	snow_depth
+(27)	sbcape
+(28)	sbcin
+(29)	li
+(30)	hgt_frzlev
+(31)	rh_frzlev
+(32)	dt_pres
+(33)	pv_lev
+(34)	dt_temp
+(35)	u_dt
+(36)	v_dt
+fatal:Variable (pcp_6h) is undefined
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 221 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now p-type precip
+(0)	cycle
+(1)	u
+(2)	time
+(3)	pres_lev
+(4)	lat
+(5)	lon
+(6)	v
+(7)	t
+(8)	g
+(9)	rh
+(10)	w
+(11)	mslp
+(12)	t_sfc
+(13)	rh_sfc
+(14)	pwat
+(15)	u_sfc
+(16)	v_sfc
+(17)	gust_sfc
+(18)	tot_cloud
+(19)	olr
+(20)	pcp_6h
+(21)	cat_rain
+(22)	cat_frzrn
+(23)	cat_ice
+(24)	cat_snow
+(25)	wesd
+(26)	snow_depth
+(27)	sbcape
+(28)	sbcin
+(29)	li
+(30)	hgt_frzlev
+(31)	rh_frzlev
+(32)	dt_pres
+(33)	pv_lev
+(34)	dt_temp
+(35)	u_dt
+(36)	v_dt
+(0)	Now std. anomalies
+fatal:Undefined identifier: (calc_anoms_rt) is undefined, can't continue
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 236 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now p-type precip
+(0)	Now std. anomalies
+fatal:Number of dimensions in parameter (1) of (calc_anoms_rt) is (4), (3) dimensions were expected 
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 241 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now p-type precip
+(0)	Now std. anomalies
+fatal:Number of dimensions in parameter (1) of (calc_anoms_rt) is (4), (3) dimensions were expected 
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 241 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now p-type precip
+(0)	Now std. anomalies
+
+Variable: mean
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [-180..179.5]
+Number Of Attributes: 8
+  hour :	  18
+  time :	  27
+  mapping :	cylindrical_equidistant_projection_grid
+  grid_resolution :	0.5 degrees
+  years_used :	1979-2009
+  units :	gpm
+  long_name :	height
+  _FillValue :	9.96921e+36
+fatal:Minus: Number of dimensions do not match, can't continue
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 477 in file /home/ksgriffin2/scripts/ncl/lib/dynamaps.ncl
+
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 241 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now p-type precip
+(0)	Now std. anomalies
+
+Variable: mean
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [-180..179.5]
+Number Of Attributes: 8
+  hour :	  18
+  time :	  27
+  mapping :	cylindrical_equidistant_projection_grid
+  grid_resolution :	0.5 degrees
+  years_used :	1979-2009
+  units :	gpm
+  long_name :	height
+  _FillValue :	9.96921e+36
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now p-type precip
+(0)	Now std. anomalies
+
+Variable: mean
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 9
+  lonFlip :	longitude coordinate variable has been reordered via lonFlip
+  long_name :	height
+  units :	gpm
+  years_used :	1979-2009
+  grid_resolution :	0.5 degrees
+  mapping :	cylindrical_equidistant_projection_grid
+  time :	  27
+  hour :	  18
+  _FillValue :	9.96921e+36
+(0)	Done and success.
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now p-type precip
+(0)	Now std. anomalies
+
+Variable: mean
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 9
+  lonFlip :	longitude coordinate variable has been reordered via lonFlip
+  long_name :	height
+  units :	gpm
+  years_used :	1979-2009
+  grid_resolution :	0.5 degrees
+  mapping :	cylindrical_equidistant_projection_grid
+  time :	  27
+  hour :	  18
+  _FillValue :	9.96921e+36
+fatal:["Execute.c":6332]:variable (g) is not in file (cfile)
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 474 in file /home/ksgriffin2/scripts/ncl/lib/dynamaps.ncl
+
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 249 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now p-type precip
+(0)	Now std. anomalies
+
+Variable: mean
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 9
+  lonFlip :	longitude coordinate variable has been reordered via lonFlip
+  long_name :	height
+  units :	gpm
+  years_used :	1979-2009
+  grid_resolution :	0.5 degrees
+  mapping :	cylindrical_equidistant_projection_grid
+  time :	  27
+  hour :	  18
+  _FillValue :	9.96921e+36
+
+Variable: mean
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 9
+  lonFlip :	longitude coordinate variable has been reordered via lonFlip
+  long_name :	temperature
+  units :	K
+  years_used :	1979-2009
+  grid_resolution :	0.5 degrees
+  mapping :	cylindrical_equidistant_projection_grid
+  time :	  27
+  hour :	  18
+  _FillValue :	9.96921e+36
+(0)	Done and success.
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now std. anomalies
+
+Variable: mean
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 9
+  lonFlip :	longitude coordinate variable has been reordered via lonFlip
+  long_name :	height
+  units :	gpm
+  years_used :	1979-2009
+  grid_resolution :	0.5 degrees
+  mapping :	cylindrical_equidistant_projection_grid
+  time :	  27
+  hour :	  18
+  _FillValue :	9.96921e+36
+
+Variable: mean
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 9
+  lonFlip :	longitude coordinate variable has been reordered via lonFlip
+  long_name :	temperature
+  units :	K
+  years_used :	1979-2009
+  grid_resolution :	0.5 degrees
+  mapping :	cylindrical_equidistant_projection_grid
+  time :	  27
+  hour :	  18
+  _FillValue :	9.96921e+36
+(0)	Done and success.
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now std. anomalies
+
+Variable: mean
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 9
+  lonFlip :	longitude coordinate variable has been reordered via lonFlip
+  long_name :	height
+  units :	gpm
+  years_used :	1979-2009
+  grid_resolution :	0.5 degrees
+  mapping :	cylindrical_equidistant_projection_grid
+  time :	  42
+  hour :	  12
+  _FillValue :	9.96921e+36
+
+Variable: mean
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 9
+  lonFlip :	longitude coordinate variable has been reordered via lonFlip
+  long_name :	temperature
+  units :	K
+  years_used :	1979-2009
+  grid_resolution :	0.5 degrees
+  mapping :	cylindrical_equidistant_projection_grid
+  time :	  42
+  hour :	  12
+  _FillValue :	9.96921e+36
+(0)	Done and success.
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now p-type precip
+(0)	Now std. anomalies
+
+Variable: mean
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 9
+  lonFlip :	longitude coordinate variable has been reordered via lonFlip
+  long_name :	height
+  units :	gpm
+  years_used :	1979-2009
+  grid_resolution :	0.5 degrees
+  mapping :	cylindrical_equidistant_projection_grid
+  time :	  42
+  hour :	  18
+  _FillValue :	9.96921e+36
+
+Variable: mean
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 9
+  lonFlip :	longitude coordinate variable has been reordered via lonFlip
+  long_name :	temperature
+  units :	K
+  years_used :	1979-2009
+  grid_resolution :	0.5 degrees
+  mapping :	cylindrical_equidistant_projection_grid
+  time :	  42
+  hour :	  18
+  _FillValue :	9.96921e+36
+(0)	Done and success.
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now p-type precip
+(0)	Now std. anomalies
+
+Variable: mean
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 9
+  lonFlip :	longitude coordinate variable has been reordered via lonFlip
+  long_name :	height
+  units :	gpm
+  years_used :	1979-2009
+  grid_resolution :	0.5 degrees
+  mapping :	cylindrical_equidistant_projection_grid
+  time :	  43
+  hour :	   0
+  _FillValue :	9.96921e+36
+
+Variable: mean
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 9
+  lonFlip :	longitude coordinate variable has been reordered via lonFlip
+  long_name :	temperature
+  units :	K
+  years_used :	1979-2009
+  grid_resolution :	0.5 degrees
+  mapping :	cylindrical_equidistant_projection_grid
+  time :	  43
+  hour :	   0
+  _FillValue :	9.96921e+36
+(0)	Done and success.
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now std. anomalies
+(0)	Done and success.
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+fatal:syntax error: function calc_std_anoms_rt expects 4 arguments, got 3
+fatal:error at line 243 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+fatal:syntax error: function calc_std_anoms_rt expects 4 arguments, got 3
+fatal:error at line 252 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+fatal:Syntax Error in block, block not executed
+fatal:error at line 263 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now std. anomalies
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 491 in file /home/ksgriffin2/scripts/ncl/lib/dynamaps.ncl
+
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 243 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now std. anomalies
+fatal:Variable (mean) is undefined
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 496 in file /home/ksgriffin2/scripts/ncl/lib/dynamaps.ncl
+
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 243 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now std. anomalies
+
+Variable: sdev
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 9
+  lonFlip :	longitude coordinate variable has been reordered via lonFlip
+  long_name :	height
+  units :	gpm
+  years_used :	1979-2009
+  grid_resolution :	0.5 degrees
+  mapping :	cylindrical_equidistant_projection_grid
+  time :	  45
+  hour :	  12
+  _FillValue :	9.96921e+36
+fatal:Div: Number of dimensions do not match, can't continue
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 499 in file /home/ksgriffin2/scripts/ncl/lib/dynamaps.ncl
+
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 243 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now std. anomalies
+
+Variable: sdev
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 9
+  lonFlip :	longitude coordinate variable has been reordered via lonFlip
+  long_name :	height
+  units :	gpm
+  years_used :	1979-2009
+  grid_resolution :	0.5 degrees
+  mapping :	cylindrical_equidistant_projection_grid
+  time :	  45
+  hour :	  12
+  _FillValue :	9.96921e+36
+
+Variable: anoms (parameter)
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78570.5..78570.5]
+            pres_lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 1
+  _FillValue :	9.96921e+36
+fatal:Div: Number of dimensions do not match, can't continue
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 499 in file /home/ksgriffin2/scripts/ncl/lib/dynamaps.ncl
+
+fatal:["Execute.c":8578]:Execute: Error occurred at or near line 243 in file /home/ksgriffin2/nc_create/derived_gfs_fhr.ncl
+
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now std. anomalies
+
+Variable: sdev
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 9
+  lonFlip :	longitude coordinate variable has been reordered via lonFlip
+  long_name :	height
+  units :	gpm
+  years_used :	1979-2009
+  grid_resolution :	0.5 degrees
+  mapping :	cylindrical_equidistant_projection_grid
+  time :	  45
+  hour :	  12
+  _FillValue :	9.96921e+36
+
+Variable: anoms (parameter)
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78570.5..78570.5]
+            pres_lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 1
+  _FillValue :	9.96921e+36
+
+Variable: sdev
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 3
+Dimensions and sizes:	[lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 9
+  lonFlip :	longitude coordinate variable has been reordered via lonFlip
+  long_name :	temperature
+  units :	K
+  years_used :	1979-2009
+  grid_resolution :	0.5 degrees
+  mapping :	cylindrical_equidistant_projection_grid
+  time :	  45
+  hour :	  12
+  _FillValue :	9.96921e+36
+
+Variable: anoms (parameter)
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78570.5..78570.5]
+            pres_lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 1
+  _FillValue :	9.96921e+36
+(0)	Done and success.
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now std. anomalies
+
+Variable: g_std_anoms
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78570.5..78570.5]
+            pres_lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 1
+  _FillValue :	9.96921e+36
+(0)	-3.92463 5.0779
+(0)	Done and success.
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now p-type precip
+(0)	Now std. anomalies
+
+Variable: g_std_anoms
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78573.25..78573.25]
+            pres_lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 1
+  _FillValue :	9.96921e+36
+(0)	-4.49262 4.32898
+(0)	Done and success.
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now p-type precip
+(0)	Now std. anomalies
+
+Variable: g_std_anoms
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78573.25..78573.25]
+            pres_lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 1
+  _FillValue :	9.96921e+36
+(0)	-4.49262 4.32898
+(0)	Done and success.
+ Copyright (C) 1995-2014 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.2.1
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Now jet levels
+(0)	pv now
+(0)	isotachs now
+(0)	divg/irrwind now
+(0)	Now rvort
+(0)	Now sfc dewp
+(0)	Now geo levels
+(0)	Now combining PV hemispheres
+(0)	Now vertical wind shear
+(0)	Now p-type precip
+(0)	Now std. anomalies
+
+Variable: g_std_anoms
+Type: float
+Total Size: 4158720 bytes
+            1039680 values
+Number of Dimensions: 4
+Dimensions and sizes:	[time | 1] x [pres_lev | 4] x [lat | 361] x [lon | 720]
+Coordinates: 
+            time: [78573.25..78573.25]
+            pres_lev: [1000..250]
+            lat: [-90..90]
+            lon: [ 0..359.5]
+Number Of Attributes: 1
+  _FillValue :	9.96921e+36
+(0)	-4.49262 4.32898
+(0)	Done and success.
